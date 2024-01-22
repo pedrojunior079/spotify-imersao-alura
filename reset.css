@@ -1,0 +1,27 @@
+/* Reset CSS */
+
+/* Removendo margens e preenchimentos padrão */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, figure, figcaption, blockquote, dl, dd {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Definindo a fonte padrão */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Removendo estilos de lista */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Removendo decoração de links */
+  a {
+    text-decoration: none;
+  }
+  
+  /* Definindo o box-sizing para border-box */
+  * {
+    box-sizing: border-box;
+  }
