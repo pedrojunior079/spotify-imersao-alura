@@ -6,3 +6,7 @@
 <p>
   Aula02 Estilo Avançado e Posicionamento: Transformando Layouts 
 </p>
+
+<p>
+  Aula03 Layout Flexbox, Pseudo-classes e Responsividade em CSS
+</p>
