@@ -10,3 +10,13 @@
 <p>
   Aula03 Layout Flexbox, Pseudo-classes e Responsividade em CSS
 </p>
+
+<p>
+  Aula04: CSS GRID, Media Queries e Manipulação do DOM com JavaScript
+</p>
+
+<p>no terminal digite: npm i json-server -g</p>
+<p>no terminal digite: json-server --watch api-artists/artists.json --port 3000</p>
+json-server --version
+
+
