@@ -1,4 +1,4 @@
-## Imersão Front-End HTML CSS e JavaScript que ocorre nos dias 22 a 26 de Janeiro de 2024
+## Imersão Front-End HTML CSS e JavaScript online que ocorre nos dias 22 a 26 de Janeiro de 2024
 <p>
   Aula01 Revisão: HTML,CSS e JS na Pratica   
 </p>
